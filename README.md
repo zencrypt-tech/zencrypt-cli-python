@@ -190,7 +190,7 @@ source .venv/bin/activate</code></pre>
       <li>Packaged releases through GitHub Releases instead of committed executables.</li>
     </ul>
     <hr>
-    <h2 id="project-structure">Suggested Project Structure</h2>
+    <h2 id="project-structure">Project Structure</h2>
     <pre><code>zencrypt-cli-python/
 ├── README.md
 ├── LICENSE
