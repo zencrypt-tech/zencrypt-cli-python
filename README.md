@@ -290,8 +290,7 @@ source .venv/bin/activate</code></pre>
     </p>
     <p align="center">
       <strong>
-        <code>By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable laws.
-        </code>
+        <code>By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable laws.</code>
       </strong>
     </p>
     <hr>
