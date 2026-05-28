@@ -1,10 +1,10 @@
 <!--
 *****************************************************************************************
-Title: Zencrypt CLI Python Readme ********************************************************
-Developed by: Ryan Hatch / Zencrypt Tech *************************************************
-Dev Date: Aug 10th 2022 ******************************************************************
-Last Updated: 2026 ************************************************************************
-Version: 3.0 ******************************************************************************
+Title: Zencrypt CLI Python Readme        |***********************************************
+Developed by: Ryan Hatch / Zencrypt Tech |***********************************************
+Dev Date: Aug 10th 2022                  |***********************************************
+Last Updated: May 27th 2026              |***********************************************
+Version: 4.0                             |***********************************************
 *****************************************************************************************
 -->
 
@@ -216,10 +216,7 @@ source .venv/bin/activate</code></pre>
     <hr>
     <h2 id="contributing">Contributing</h2>
     <p align="center">
-      <strong>
-        Please reach out to verify and validate ideas and contributions before
-        continuing any further. Although contributions may be welcome, they should
-        stay focused on the Python CLI version of Zencrypt.
+      <strong>Please reach out to verify and validate ideas and contributions before continuing any further. Although contributions may be welcome, they should stay focused on the Python CLI version of Zencrypt.
       </strong>
     </p>
     <p>
@@ -261,19 +258,12 @@ source .venv/bin/activate</code></pre>
     </p>
     <p align="center">
       <strong>
-        <code>
-          This script is provided for educational and demonstration purposes only.
-          Use it responsibly and only on files, messages, and systems that you own
-          or are authorized to work with.
-        </code>
+        <code>This script is provided for educational and demonstration purposes only. Use it responsibly and only on files, messages, and systems that you own or are authorized to work with.</code>
       </strong>
     </p>
     <p align="center">
       <strong>
-        <code>
-          The project maintainer is not responsible for data loss, misuse, damage,
-          or improper use of this software.
-        </code>
+        <code>The project maintainer is not responsible for data loss, misuse, damage, or improper use of this software.</code>
       </strong>
     </p>
     <p align="center">
@@ -300,9 +290,7 @@ source .venv/bin/activate</code></pre>
     </p>
     <p align="center">
       <strong>
-        <code>
-          By using this software, you acknowledge that you have read and understood
-          the terms of this license and agree to comply with all applicable laws.
+        <code>By using this software, you acknowledge that you have read and understood the terms of this license and agree to comply with all applicable laws.
         </code>
       </strong>
     </p>
