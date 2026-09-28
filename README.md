@@ -41,6 +41,7 @@ Version: 4.0                             |**************************************
       All Rights Reserved.
     </p>
     <br>
+    <img width="1080" height="1073" alt="pgpencryption" src="https://github.com/user-attachments/assets/217e8eb2-ea17-4cf8-a1b6-9817d65b2e07" />
     <h2 id="overview">Overview</h2>
     <p>
       Zencrypt CLI Python is a terminal-based encryption and hashing tool from the
